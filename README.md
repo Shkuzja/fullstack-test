@@ -1,2 +1,2 @@
-# -fullstack-test
+# fullstack-test
 Тестовое задание
